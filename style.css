@@ -37,14 +37,14 @@ font-family: 'Satisfy', cursive; */
 }
 
 
-[calss*="col-"]{
+[class*="col-"]{
     float: left;
     padding: 15px;
 }
 
 
 
-[calss*="col-"]{
+[class*="col-"]{
     width: 25%;
 }
 
